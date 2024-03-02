@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 -  Hi 👋, I’m @KAOUTAR MAAZOUF FULLSTACK DEVELOPER 
 - 👀 I’m interested in :<br>
         ☕ BackEnd <br>
-          &nbsp; &nbsp;✔️ python :python  <br>
-          &nbsp; &nbsp;✔️ php<br>
+          &nbsp; &nbsp;✔️ Python  <br>
+          &nbsp; &nbsp;✔️ Php <br>
+          &nbsp; &nbsp;✔️ Javascript<br>
+          &nbsp; &nbsp;✔️ Laravel <br>
           &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
           &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB | <br>
-          &nbsp; &nbsp;✔️ javascript: js <br>
-          &nbsp; &nbsp;✔️ Laravel : laravel<br>
-          &nbsp; &nbsp;✔️ reactjs: reactjs <br>
+          &nbsp; &nbsp;✔️ reactjs <br>
          
 - 🌱 I’m currently student in  Web FullStack <br>
 - 📖 I’m currently learning everything 🤣 <br>
