@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 -  Hi 👋, I’m @KAOUTAR MAAZOUF FULLSTACK DEVELOPER 
 - 👀 I’m interested in :<br>
         ☕ BackEnd <br>
-          &nbsp; &nbsp;✔️ Laravel : laravel<br>
           &nbsp; &nbsp;✔️ python :python  <br>
+          &nbsp; &nbsp;✔️ php<br>
           &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
-          &nbsp; &nbsp;✔️ Web Service : JSON | XML <br>
           &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB | <br>
           &nbsp; &nbsp;✔️ javascript: js <br>
+          &nbsp; &nbsp;✔️ Laravel : laravel<br>
           &nbsp; &nbsp;✔️ reactjs: reactjs <br>
-          &nbsp; &nbsp;✔️ php<br>
+         
 - 🌱 I’m currently student in  Web FullStack <br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
-- 🥅 2022 Goals: Learn more about laravel , javasctipt, python <br>
+- 🥅 2022 Goals: Learn more about php , javasctipt, python <br>
 - 📫 How to reach me : Email :  zhtfly009@gmail.com <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaoutarMaazouf&theme=radical&show_icons=true)
