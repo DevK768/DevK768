@@ -52,35 +52,14 @@ Here are some ideas to get you started:
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
+    <a href="/docs/readme_es.md">Englais</a>
   </p>
 </p>
 <p align="center">Vous aimez ce projet? Pensez <a href="https://www.paypal.me/anuraghazra">à faire un don</a> pour l'améliorer!
 
 
 # HOLA there, I'm DevK768👋 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarabouraya&theme=radical&show_icons=true)
-## Spring boot Developer, and Data Scientist !!
+## Spring boot  Full Stack Developer
 -  Hi 👋, I’m @DevK768 FULLSTACK DEVELOPER 
 - 👀 I’m interested in :<br>
         ☕ BackEnd <br>
@@ -100,7 +79,6 @@ Here are some ideas to get you started:
 
 
 ### 💻 Top Programming Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevK768&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
