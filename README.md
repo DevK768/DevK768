@@ -14,26 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# HOLA there, I'm DevK768👋 
+# HOLA there, I'm KAOUTAR MAAZOUF👋 
 ## Spring boot  Full Stack Developer
--  Hi 👋, I’m @DevK768 FULLSTACK DEVELOPER 
+-  Hi 👋, I’m @KAOUTAR MAAZOUF FULLSTACK DEVELOPER 
 - 👀 I’m interested in :<br>
         ☕ BackEnd <br>
           &nbsp; &nbsp;✔️ Laravel : laravel<br>
-          &nbsp; &nbsp;✔️ python :python  H2<br>
+          &nbsp; &nbsp;✔️ python :python  <br>
           &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
-          &nbsp; &nbsp;✔️ Web Service : JSON | XML | YAML <br>
-          &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB | H2<br>
-          &nbsp; &nbsp;✔️ javascript: js  H2<br>
-          &nbsp; &nbsp;✔️ reactjs: reactjs  H2<br>
-          &nbsp; &nbsp;✔️ php  H2<br>
+          &nbsp; &nbsp;✔️ Web Service : JSON | XML <br>
+          &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB | <br>
+          &nbsp; &nbsp;✔️ javascript: js <br>
+          &nbsp; &nbsp;✔️ reactjs: reactjs <br>
+          &nbsp; &nbsp;✔️ php<br>
 - 🌱 I’m currently student in  Web FullStack <br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies like freelance <br>
 - 🥅 2022 Goals: Learn more about laravel , javasctipt, python <br>
 - 📫 How to reach me : Email :  zhtfly009@gmail.com <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aouadi-Assia&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaoutar-Maazouf&theme=radical&show_icons=true)
 ### 💻 Top Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevK768&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
