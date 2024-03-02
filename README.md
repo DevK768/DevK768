@@ -21,11 +21,12 @@ Here are some ideas to get you started:
         ☕ BackEnd <br>
           &nbsp; &nbsp;✔️ Python  <br>
           &nbsp; &nbsp;✔️ Php <br>
-          &nbsp; &nbsp;✔️ Javascript<br>
           &nbsp; &nbsp;✔️ Laravel <br>
           &nbsp; &nbsp;✔️ Design : UML | Design Patterns | Clean code-Solid principles <br>
           &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB | <br>
-          &nbsp; &nbsp;✔️ reactjs <br>
+        ☕ FrontEnd <br>
+            &nbsp; &nbsp;✔️ Javascript<br>
+            &nbsp; &nbsp;✔️ reactjs <br>
          
 - 🌱 I’m currently student in  Web FullStack <br>
 - 📖 I’m currently learning everything 🤣 <br>
