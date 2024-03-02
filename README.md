@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
-
-
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nodejs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Reactjs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 
 
 
