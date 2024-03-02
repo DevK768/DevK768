@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# HOLA there, I'm KAOUTAR MAAZOUF👋 
+# HOLA, I'm KAOUTAR MAAZOUF👋 
 ## Spring boot  Full Stack Developer
 -  Hi 👋, I’m @KAOUTAR MAAZOUF FULLSTACK DEVELOPER 
 - 👀 I’m interested in :<br>
