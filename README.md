@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevK768&theme=radical&show_icons=true)
 ### 💻 Top Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevK7688&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevK768&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
