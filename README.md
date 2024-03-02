@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Learn more about laravel , javasctipt, python <br>
 - 📫 How to reach me : Email :  zhtfly009@gmail.com <br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aouadi-Assia&theme=radical&show_icons=true)
 ### 💻 Top Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevK768&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Numpy" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aouadi-Assia&theme=radical&show_icons=true)
 <img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Tensorflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" style="padding-right:10px;" />
