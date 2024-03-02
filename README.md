@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevK768&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
-<img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
@@ -46,14 +46,11 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Intellij" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Jenkins" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Numpy" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Tensorflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" style="padding-right:10px;" />
 
 
 
