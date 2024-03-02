@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Learn more about php , javasctipt, python <br>
 - 📫 How to reach me : Email :  zhtfly009@gmail.com <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaoutarMaazouf&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevK768&theme=radical&show_icons=true)
 ### 💻 Top Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaoutarMaazouf8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevK7688&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
